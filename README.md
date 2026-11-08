@@ -1,11 +1,11 @@
-# MzansiRide SafeAI 🇿🇦
-*AWS AI Hackathon 2026 Submission*
+# MzansiRide SafeAI
+*AWS x Praesignis x First Distribution Hackathon 2026 Submission*
 
 ## Overview
 MzansiRide SafeAI is a proactive safety and shared mobility prototype designed for South African commuters. It bridges affordability through shared fares with real-time transit safety features, automated check-in timers, and contextual AI assistance.
 
 ## Live Deployment
-* **Amplify Live App:** [View Deployed Frontend](https://main.d2o3xfewmlc6zg.amplifyapp.com) *(Note: To comply with AWS free-tier cleanup guidelines post-hackathon, the backend cloud resources have been decommissioned, but the frontend remains fully functional using simulated mode).*
+* **Amplify Live App:** [View Deployed Frontend](https://main.d2o3xfewmlc6zg.amplifyapp.com)
 
 ## Architecture & AWS Services Used
 * **Amazon API Gateway & AWS Lambda:** Managed REST endpoints handling safety rule evaluation.
